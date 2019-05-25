@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://aayush-ghost.herokuapp.com",
+    "contentApiKey": "c018edc7291dcb92881c8dffd5"
+  },
+  "production": {
+    "apiUrl": "https://aayush-ghost.herokuapp.com",
+    "contentApiKey": "c018edc7291dcb92881c8dffd5"
+  }
+}
