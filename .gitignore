@@ -70,5 +70,5 @@ typings/
 
 # Docs Custom
 .cache/
-public
+static/
 yarn-error.log
