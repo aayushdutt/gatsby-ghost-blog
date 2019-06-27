@@ -3,3 +3,5 @@
 
 https://gatsby-starter-ghost.netlify.com/*      https://gatsby.ghost.org/:splat    301!
 http://gatsby-starter-ghost.netlify.com/*       https://gatsby.ghost.org/:splat    301!
+/admin	https://aayush-ghost.herokuapp.com/ghost
+/deploys https://app.netlify.com/sites/condescending-haibt-606ea6/deploys
